@@ -1,10 +1,6 @@
 package L13_July9;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 09-Jul-2018
- */
+
 
 public class BackTrackingDemo {
 

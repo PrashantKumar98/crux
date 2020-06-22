@@ -1,9 +1,6 @@
 package L16_July19.Adapters;
 
-/**
- * @author Garima Chhikara
- * @date Jul 19, 2018
- */
+
 
 public class SuQClient {
 

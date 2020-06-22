@@ -3,12 +3,6 @@ package L16_July19.Adapters;
 import L10_June29.LinkedList;
 import L9_June28.DynamicQueue;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 23-Jul-2018
- */
-
 public class StackUsingLL {
 
 	private LinkedList list = new LinkedList();

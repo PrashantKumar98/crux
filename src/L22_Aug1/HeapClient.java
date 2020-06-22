@@ -1,10 +1,5 @@
 package L22_Aug1;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 01-Aug-2018
- */
 
 public class HeapClient {
 

@@ -1,10 +1,6 @@
 package Webinar.AVLTree;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 13-Feb-2018
- */
+
 
 public class AVLClient {
 

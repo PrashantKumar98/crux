@@ -1,10 +1,6 @@
 package L17_July20;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 20-Jul-2018
- */
+
 
 public class GTClient {
 

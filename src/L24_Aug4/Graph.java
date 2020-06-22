@@ -6,11 +6,6 @@ import java.util.LinkedList;
 
 import L22_Aug1.HeapGeneric;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 04-Aug-2018
- */
 
 public class Graph {
 

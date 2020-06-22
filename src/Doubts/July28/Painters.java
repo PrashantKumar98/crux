@@ -3,11 +3,6 @@ package Doubts.July28;
 import java.util.Arrays;
 import java.util.Scanner;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 28-Jul-2018
- */
 
 public class Painters {
 

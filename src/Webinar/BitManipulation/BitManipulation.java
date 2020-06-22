@@ -1,10 +1,5 @@
 package Webinar.BitManipulation;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 28-Jul-2018
- */
 
 public class BitManipulation {
 

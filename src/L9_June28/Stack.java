@@ -1,10 +1,5 @@
 package L9_June28;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date Jun 28, 2018
- */
 
 public class Stack {
 

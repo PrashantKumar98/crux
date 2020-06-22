@@ -1,10 +1,5 @@
 package Doubts.Aug18;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 18-Aug-2018
- */
 
 public class KadaneAlgo {
 

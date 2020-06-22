@@ -1,10 +1,6 @@
 package L18_July23;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 23-Jul-2018
- */
+
 
 public class BTClient {
 

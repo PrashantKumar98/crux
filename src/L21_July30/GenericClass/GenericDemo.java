@@ -7,11 +7,6 @@ import java.util.Stack;
 
 import L21_July30.GenericFxn.Car;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 30-Jul-2018
- */
 
 public class GenericDemo {
 

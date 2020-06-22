@@ -1,9 +1,5 @@
 package L9_June28;
 
-/**
- * @author Garima Chhikara
- * @date Jul 16, 2018
- */
 
 public class DynamicStack extends Stack {
 

@@ -3,10 +3,6 @@ package L16_July19.Adapters;
 import L9_June28.DynamicQueue;
 import L9_June28.Queue;
 
-/**
- * @author Garima Chhikara
- * @date Jul 19, 2018
- */
 
 public class StackUQueuePushE {
 

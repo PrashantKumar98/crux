@@ -1,10 +1,5 @@
 package L21_July30.GenericFxn;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 30-Jul-2018
- */
 
 public class Car implements Comparable<Car> {
 

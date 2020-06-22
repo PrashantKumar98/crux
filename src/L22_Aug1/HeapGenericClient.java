@@ -4,11 +4,7 @@ import java.util.ArrayList;
 
 import L21_July30.GenericFxn.Car;
 
-/**
- * @author Garima Chhikara
- * @email garima.chhikara@codingblocks.com
- * @date 01-Aug-2018
- */
+
 
 public class HeapGenericClient {
 
